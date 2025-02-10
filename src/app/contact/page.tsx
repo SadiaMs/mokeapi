@@ -6,7 +6,7 @@ const ContactUs = () => {
       <div className="bg-red-200 p-8 rounded-lg shadow-lg w-full max-w-md">
         <h1 className="text-2xl font-bold text-gray-800 mb-4 text-center">Contact Us</h1>
         <p className="text-gray-600 text-center mb-6">
-          Have any questions? We'd love to hear from you!
+          Have any questions We d love to hear from you
         </p>
         <form>
           
