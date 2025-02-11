@@ -29,7 +29,7 @@ const CartPage: React.FC = () => {
       </div>
 
       {cartItems.length === 0 ? (
-        <p className="text-center text-white text-xl">Your cart is empty.</p>
+        <p className="text-center text-white text-xl">Your cart is empty</p>
       ) : (
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
           {cartItems.map((item) => (
